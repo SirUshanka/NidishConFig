@@ -1,0 +1,21 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"►♥◄ CTP.TF ►♥◄ | NY | 2FORT | RANDOMIZER"
+		"date"		"1588048180"
+		"addr"		"172.93.109.90:27070"
+	}
+	"server"
+	{
+		"name"		"████ Traders Anonymous|Trade Server ████"
+		"date"		"1588200327"
+		"addr"		"103.214.110.114:27015"
+	}
+	"server"
+	{
+		"name"		"  ►  BlackWonder US | Trade Minecraft  ◄"
+		"date"		"1588377047"
+		"addr"		"85.117.240.6:27145"
+	}
+}

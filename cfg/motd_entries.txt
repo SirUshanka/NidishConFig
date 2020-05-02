@@ -1,0 +1,15 @@
+"motd_entries"
+{
+	"last_request_time"		"2020-05-01 17:58:19"
+	"last_request_language"		"english"
+	"95"
+	{
+		"post_time"		"2020-05-01 23:55:00"
+		"title_english"		"Rick May"
+		"text_english"		"We've added a tribute to Rick May, voice of the Soldier, during the month of May."
+		"url"		"http://www.teamfortress.com/"
+		"image"		"../vgui/main_menu/motd_soldier"
+		"header_type"		"0"
+		"header_english"		"#MMenu_News"
+	}
+}
